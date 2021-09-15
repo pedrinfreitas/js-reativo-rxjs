@@ -1,0 +1,23 @@
+{
+  "name": "js-reativo-rxjs",
+  "version": "1.0.0",
+  "description": "Programação Reativa com RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrinfreitas/js-reativo-rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrinfreitas/js-reativo-rxjs/issues"
+  },
+  "homepage": "https://github.com/pedrinfreitas/js-reativo-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
+}

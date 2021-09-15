@@ -1,2 +1,6 @@
-# js-reativo-rxjs
+# anotacoes
 Programação Reativa com RxJS
+
+
+
+
